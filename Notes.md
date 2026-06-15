@@ -14,9 +14,11 @@
 * Github (CLI)
 * Github (Desktop) [Windows only]
 * KiCAD (PCB Design & editor) {9.0, do not use 10.0 or above}
+* LTSpice [Windows only]
 * Orca Slicer (3D Printer slicer)
 * Saturn PCB (PCB Trace calculations) [Windows only]
 * VS Code
+* GNU Octave
 
 #### Entertainment
 * Lunar
@@ -33,6 +35,5 @@
 * Libre Office Calc
 * Libre Office Writer
 * windirstat (File & foler tree) [Windows only]
-
 ### Helper Programs
 * winget (windows program downloader) [Windows only]
