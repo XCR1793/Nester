@@ -5,7 +5,6 @@
 * Legcord (Discord alternative)
 * Signal
 * Vesktop (Discord alternative)
-
 #### Engineering tools/programs
 * Autodesk Fusion360 [Windows only]
 * Bambu Studio (3D Printer slicer)
@@ -14,17 +13,19 @@
 * Github (CLI)
 * Github (Desktop) [Windows only]
 * KiCAD (PCB Design & editor) {9.0, do not use 10.0 or above}
+	* Symbol libraries
+		* Include LCSC numbers
+	* Footprint libraries (linked with symbols)
+	* Model libraries (linked with footprints)
 * LTSpice [Windows only]
 * Orca Slicer (3D Printer slicer)
 * Saturn PCB (PCB Trace calculations) [Windows only]
 * VS Code
 * GNU Octave
-
 #### Entertainment
 * Lunar
 * Prism
 * Steam
-
 #### General
 * Brave (Internet Browser)
 * Darktable (Adobe Lightroom alternative)
@@ -37,3 +38,4 @@
 * windirstat (File & foler tree) [Windows only]
 ### Helper Programs
 * winget (windows program downloader) [Windows only]
+* windirstat (windows storage file tree analyser)
